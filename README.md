@@ -2,6 +2,8 @@
 
 View the Demo of To-Do Plus App & Use the [To-Do Plus App](https://bhaviksojitra.github.io/To-Do-Plus-App/).
 
+![To-Do-Plus-App-SparkVideo (1)](https://user-images.githubusercontent.com/75220689/135259995-a7f904e9-756a-4933-843b-46a3968b79e5.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
